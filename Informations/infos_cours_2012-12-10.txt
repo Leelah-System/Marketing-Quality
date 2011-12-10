@@ -1,0 +1,7 @@
+Fournir un schemas d'organisation de projets:
+
+- Commencant a partir de la soumission du projet
+- Affichant les indicateurs, pilotage, decisions, fournisseurs (formation, recrutement),
+- GLOBALITÉ du projet (RH, gestion, problemes, toussa).
+- Justification et arguments des choix fait et de toute les autres possibilités.
+
