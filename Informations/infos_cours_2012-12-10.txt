@@ -1,0 +1,20 @@
+Fournir un schemas d'organisation de projets:
+
+- Commencant a partir de la soumission du projet
+- Affichant les indicateurs, pilotage, decisions, fournisseurs (formation, recrutement),
+- GLOBALITÉ du projet (RH, gestion, problemes, toussa).
+- Justification et arguments des choix fait et de toute les autres possibilités.
+
+- Axe d'ameliorations
+- Axe de réalisations
+- Axe de pilotage
+- Indicateurs
+- Axe de decisions
+
+(Bon exemple schema global Etna-Mobile)
+
+Réalisation CDC -> Développement coquille -> Com. API Etna -> Dev. + mise en préprod. -> Debug + Béta.
+
+d(o) -> c(heck) -> a(melioration) -> p(roduction)
+
+Nommé chaques fin de morceaux de schema,
